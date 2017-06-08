@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [get\_filename\_ext](getfilename-ext.md)
+* [mkpath\(\) - \`mkdir -p' alike in C for UNIX](mkpath-mkdir-p-alike-in-c-for-unix.md)
 
