@@ -7,4 +7,5 @@
 * [is\_regular\_file](isregular-file.md)
 * [get\_filename](getfilename.md)
 * [get\_filename\_ext](getfilename-ext.md)
+* [get\_fileanme\_no\_ext](getfileanme-no-ext.md)
 
